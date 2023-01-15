@@ -1,1 +1,1 @@
-# ImageClassifier-Udacity-
+# ImageClassifier-Udacity
